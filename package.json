@@ -1,0 +1,25 @@
+{
+  "name": "virtual_pet",
+  "version": "1.0.0",
+  "description": "Real pets are great, but they do have drawbacks. They smell. Your mum might be allergic to them. Maybe you just aren't allowed one in your flat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharifCoding/Virtual_Pet.git"
+  },
+  "author": "SharifCoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharifCoding/Virtual_Pet/issues"
+  },
+  "homepage": "https://github.com/SharifCoding/Virtual_Pet#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "jest": "^22.4.2"
+  }
+}
